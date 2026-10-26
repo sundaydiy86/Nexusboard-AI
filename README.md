@@ -1,0 +1,2 @@
+# Nexusboard-AI
+Study Notes 
